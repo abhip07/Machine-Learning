@@ -1,2 +1,2 @@
 # Machine-Learning
-This repository contains code for implementation of  Machine Learning Algorithms using popular datasets.
+This repository contains beginner friendly code for implementating of  Machine Learning Algorithms using popular datasets.
